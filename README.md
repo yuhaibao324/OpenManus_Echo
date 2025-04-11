@@ -2,6 +2,13 @@
   <img src="assets/logo.jpg" width="200"/>
 </p>
 
+<pre>
+老头老太太也能用上AI了！说说话就让AI替他们做日常生活里有用的操作。
+这里我们展示了一种语音操控ai，并且语音得到AI执行结果的全新交互方式，我们的方案增加了一个全新的交互维度（语音），而且有openmanus能力加持，可以无线扩展语音操控AI的能力边界，具有高度扩展性。
+DEMO以一个有慢性病老人日常生活的养生日常指导为例，AI知道老人的背景信息，当老人说出自己要今天的养生指引时，AI理解她的语音指令并生成对她的个性化养生指导，然后语音朗读给用户。大大降低了传统计算机和手机使用不方便人群通过AI获益的门槛！
+我们相信“手指-屏幕”在AI时代不会再是唯一的人机交互方式，人类使用语言已经有上万年历史，用自然语言对话来操作ai更自然，更简单，连老人小孩都会。
+  
+</pre>
 English | [中文](README_zh.md) | [한국어](README_ko.md) | [日本語](README_ja.md)
 
 [![GitHub stars](https://img.shields.io/github/stars/mannaandpoem/OpenManus?style=social)](https://github.com/mannaandpoem/OpenManus/stargazers)
